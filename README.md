@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	content="width=device-width,
+	initial-scale=1.0"
+
+	<title>   MI CARTA PARA FUNXY </title>
+	<style>
+       body {
+       	background-image: url("img/rosas.jpg");
+       	background-size: cover;
+       	background-repeat: no-repeat;
+       	background-position: center;
+       	background-attachment: fixed;
+       	font-family: Arial,
+sans-serif;
+    }
+
+    .carta {
+    	background-color: rgba(255, 
+255, 255, 0.8);
+    	padding: 20px;
+    	border-radius: 15px;
+    	width:80%;
+    	margin: 50px auto;
+    	color: black;
+    }
+    h1, h2 {
+    	text-align: center;
+    }
+    .titulo {
+    	font-size: 28px;
+     }
+     .funx {
+     	color: red;
+     }
+     .wolf {
+     	color: blue;
+     }
+   </style>
+</head>
+<body>
+
+	<p>
+
+	<title>Te amo mi Funxy</title>
+</head>
+</body>
+<p>
+	<span style="color: red; ">Funx<span 
+style="color: blue;">wolf</span></p>
+</body>
+
+<h1> TE AMO MUCHO MI FUNXY </h1>
+<meta charset="UTF-8">
+	<meta name="viewport"
+	content="width=device-width,
+	initial-scale=1.0">
+	<title>Te amo mi Funxy</title>
+	<style> 90
+	p{
+		font-size: 20px;
+		color: verde
+	}
+</style>
+</head>
+<body>
+
+<p> En esta carta estilo pagina web
+ quiero dejarte en claro todo mi amor. <3
+Mi querida Funxy el amor de mi vida,
+ no hay nadie mas especial que tu, en 
+esta carta quiero dejarte en claro
+ todo el amor que siento por ti, se que
+esto no es el trabajo mas profesional
+ pero con mis pequeños conocimientos
+intento impresionarte, a pesar del
+ tiempo que perdi a tu lado la verdad...
+La verdad esque sigo muy enamorado de ti
+ mi niña :,3 
+Eres lo mejor que me ha pasado en la
+ vida y estoy muy agradecido con todo
+el amor que tu me das a mi. </p>
+
+ <h2>GRACIAS POR SER EL AMOR DE MI VIDA <h2>
+ <img src="img/funxwolf.png" width="1200px">
+
+ </html>
+ 
+
+
+
+
+ 
